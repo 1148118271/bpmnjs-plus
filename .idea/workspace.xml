@@ -122,7 +122,7 @@
       <workItem from="1603329316368" duration="1610000" />
       <workItem from="1603331057013" duration="63000" />
       <workItem from="1603331558094" duration="3583000" />
-      <workItem from="1603335903473" duration="406000" />
+      <workItem from="1603335903473" duration="696000" />
     </task>
     <task id="LOCAL-00001" summary="bpmnjs">
       <created>1603333739156</created>
@@ -138,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603336070611</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改文档">
+      <created>1603336687879</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603336687879</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,17 +168,18 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="bpmnjs" />
-    <option name="LAST_COMMIT_MESSAGE" value="bpmnjs" />
+    <MESSAGE value="修改文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改文档" />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603271594861">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state x="578" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.984@0.23.1680.984" timestamp="1603271594861" />
-    <state x="374" y="77" key="CommitChangelistDialog2" timestamp="1603336070459">
+    <state x="374" y="77" key="CommitChangelistDialog2" timestamp="1603336687684">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
-    <state x="374" y="77" key="CommitChangelistDialog2/0.23.1680.984@0.23.1680.984" timestamp="1603336070459" />
+    <state x="374" y="77" key="CommitChangelistDialog2/0.23.1680.984@0.23.1680.984" timestamp="1603336687684" />
     <state x="168" y="111" key="DiffContextDialog" timestamp="1603335253842">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
@@ -200,9 +208,13 @@
       <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state x="379" y="154" key="SettingsEditor/0.23.1680.984@0.23.1680.984" timestamp="1603335918613" />
-    <state x="440" y="255" key="Vcs.Push.Dialog.v2" timestamp="1603336072151">
+    <state x="440" y="255" key="Vcs.Push.Dialog.v2" timestamp="1603336689452">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
-    <state x="440" y="255" key="Vcs.Push.Dialog.v2/0.23.1680.984@0.23.1680.984" timestamp="1603336072151" />
+    <state x="440" y="255" key="Vcs.Push.Dialog.v2/0.23.1680.984@0.23.1680.984" timestamp="1603336689452" />
+    <state x="511" y="159" width="1168" height="963" key="dock-window-1" timestamp="1603336873452">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="511" y="159" width="1168" height="963" key="dock-window-1/0.23.1680.984@0.23.1680.984" timestamp="1603336873452" />
   </component>
 </project>
