@@ -5,8 +5,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b28ee5af-e8d3-41cd-9206-d2fbd00b1b8f" name="Default Changelist" comment="bpmnjs">
+    <list default="true" id="b28ee5af-e8d3-41cd-9206-d2fbd00b1b8f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -118,7 +122,7 @@
       <workItem from="1603329316368" duration="1610000" />
       <workItem from="1603331057013" duration="63000" />
       <workItem from="1603331558094" duration="3583000" />
-      <workItem from="1603335903473" duration="14000" />
+      <workItem from="1603335903473" duration="406000" />
     </task>
     <task id="LOCAL-00001" summary="bpmnjs">
       <created>1603333739156</created>
@@ -127,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603333739156</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bpmnjs">
+      <created>1603336070611</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603336070611</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,10 +168,10 @@
       <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state x="578" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.984@0.23.1680.984" timestamp="1603271594861" />
-    <state x="374" y="77" key="CommitChangelistDialog2" timestamp="1603334169316">
+    <state x="374" y="77" key="CommitChangelistDialog2" timestamp="1603336070459">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
-    <state x="374" y="77" key="CommitChangelistDialog2/0.23.1680.984@0.23.1680.984" timestamp="1603334169316" />
+    <state x="374" y="77" key="CommitChangelistDialog2/0.23.1680.984@0.23.1680.984" timestamp="1603336070459" />
     <state x="168" y="111" key="DiffContextDialog" timestamp="1603335253842">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
@@ -189,9 +200,9 @@
       <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state x="379" y="154" key="SettingsEditor/0.23.1680.984@0.23.1680.984" timestamp="1603335918613" />
-    <state x="440" y="255" key="Vcs.Push.Dialog.v2" timestamp="1603335572176">
+    <state x="440" y="255" key="Vcs.Push.Dialog.v2" timestamp="1603336072151">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
-    <state x="440" y="255" key="Vcs.Push.Dialog.v2/0.23.1680.984@0.23.1680.984" timestamp="1603335572176" />
+    <state x="440" y="255" key="Vcs.Push.Dialog.v2/0.23.1680.984@0.23.1680.984" timestamp="1603336072151" />
   </component>
 </project>
