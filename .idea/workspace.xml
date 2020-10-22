@@ -5,7 +5,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b28ee5af-e8d3-41cd-9206-d2fbd00b1b8f" name="Default Changelist" comment="bpmnjs" />
+    <list default="true" id="b28ee5af-e8d3-41cd-9206-d2fbd00b1b8f" name="Default Changelist" comment="bpmnjs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="z89ddcpa" />
@@ -61,7 +63,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -74,13 +76,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,7 +117,8 @@
       <workItem from="1603274377652" duration="1982000" />
       <workItem from="1603329316368" duration="1610000" />
       <workItem from="1603331057013" duration="63000" />
-      <workItem from="1603331558094" duration="3413000" />
+      <workItem from="1603331558094" duration="3583000" />
+      <workItem from="1603335903473" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="bpmnjs">
       <created>1603333739156</created>
@@ -138,8 +143,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="bpmnjs" />
     <option name="LAST_COMMIT_MESSAGE" value="bpmnjs" />
   </component>
@@ -176,6 +185,10 @@
       <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state x="589" y="223" key="RollbackChangesDialog/0.23.1680.984@0.23.1680.984" timestamp="1603335326297" />
+    <state x="379" y="154" key="SettingsEditor" timestamp="1603335918613">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="379" y="154" key="SettingsEditor/0.23.1680.984@0.23.1680.984" timestamp="1603335918613" />
     <state x="440" y="255" key="Vcs.Push.Dialog.v2" timestamp="1603335572176">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
